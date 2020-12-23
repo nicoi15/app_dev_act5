@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#F5F5F5</color>
+    <color name="colorAccent">#FAFAFA</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#fff</color>
+    <color name="colorAlertDialog">#1C2A35</color>
+    <color name="colorAlertDialogButton">#6AB0CB</color>
+</resources>
